@@ -1,4 +1,4 @@
-project('http', 'c',
+project('libhttp', 'c',
         license: 'MIT',
         version: '0.1.0')
 
